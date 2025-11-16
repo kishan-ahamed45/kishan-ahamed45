@@ -3,7 +3,6 @@
 <p >
   💻 Software Engineering Undergraduate @ SLIIT <br>
   🚀 Backend Developer | Java | Spring Boot | MySQL <br>
-  🧩 Currently building: Life Insurance IT Ticketing System
 </p>
 
 ---

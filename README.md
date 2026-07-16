@@ -1,54 +1,33 @@
-<h1>👋 Hey, I'm Kishan Ahamed</h1>
+# 👋 Hi, I'm Kishan Ahamed
 
-<p >
-  💻 Software Engineering Undergraduate @ SLIIT <br>
-  🚀 Backend Developer | Java | Spring Boot | MySQL <br>
-</p>
-
----
-
-### ⚡ Tech Stack
-
-| Category  | Tools |
-|-----------|-------|
-| Backend | Java • Spring Boot • Servlets |
-| Frontend | HTML • CSS • Bootstrap • Thymeleaf |
-| Database | MySQL • JPA/Hibernate |
-| Tools | IntelliJ IDEA • Git • Postman |
+🎓 Software Engineering Undergraduate @ SLIIT  
+💻 Full Stack Developer  
+🚀 Passionate about building scalable web applications
 
 ---
 
-### 🔥 Featured Projects
+## 🛠 Tech Stack
 
-🚀 **Life Insurance IT Helpdesk System**  
-🔗 https://github.com/kishan-ahamed45/life-insurance-it-ticketing-system  
-✔ Admin submits tickets  
-✔ IT Admin approves / rejects / solves issues  
-✔ Built with Spring Boot + MySQL + Thymeleaf  
+**Frontend**  
+React • Next.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
-🍽 **Restaurant Table Reservation System**  
-🔗 https://github.com/kishan-ahamed45/restaurant-table-reservation-system  
-✔ Queue handling  
-✔ Merge Sort for time ordering  
-✔ JSP + Servlets + Bootstrap UI  
+**Backend**  
+Node.js • Express.js • NestJS • Java • Spring Boot
 
-🔐 **Spring Security Login System**  
-🔗 https://github.com/kishan-ahamed45/spring-security-login-system  
-✔ JWT Authentication  
-✔ Role-based login  
-✔ Form validation
+**Languages**  
+TypeScript • JavaScript • Java
 
----
+**Databases**  
+PostgreSQL • MySQL • MongoDB
 
-### 📊 GitHub Stats
+**Cloud & Hosting**  
+MongoDB Atlas • Supabase • Vercel • Render • Railway
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-ahamed45&layout=compact&theme=radical" />
-</p>
+**Tools & Platforms**  
+Git • GitHub • Docker • Postman • DBeaver • Figma
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect
 
-📩 Email: **kishanahamed2004@gmail.com**  
-
+📧 **kishanahamed2004@gmail.com**
